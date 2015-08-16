@@ -12,6 +12,11 @@ To install:
 
   $ python setup.py install
 
+NOTE
+----
+Mox3 has been adopted by OpenStack Oslo project and is now hosted at
+http://git.openstack.org/cgit/openstack/mox3
+
 Running Tests
 -------------
 The testing system is based on a combination of tox and testr. The canonical
