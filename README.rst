@@ -18,6 +18,16 @@ To install:
 
   mox.chicken()
 
+.. code-block:: yaml
+
+  client:
+    force_ipv4: true
+  clouds:
+    mordred:
+      profile: hp
+
+
+
 NOTE
 ----
 Mox3 has been adopted by OpenStack Oslo project and is now hosted at
