@@ -12,6 +12,12 @@ To install:
 
   $ python setup.py install
 
+.. code-block:: python
+
+  import mox
+
+  mox.chicken()
+
 NOTE
 ----
 Mox3 has been adopted by OpenStack Oslo project and is now hosted at
